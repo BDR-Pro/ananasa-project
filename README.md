@@ -13,6 +13,7 @@ ananasa to watch movies
 
 
 
+
 ananasa_project/
 |-- movies/
 |   |-- templates/
