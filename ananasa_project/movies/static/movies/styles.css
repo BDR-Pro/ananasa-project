@@ -1,0 +1,12 @@
+/* Add your styles here */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.movie {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Add more styles as needed */
