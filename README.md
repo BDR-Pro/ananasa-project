@@ -14,18 +14,3 @@ ananasa to watch movies
 
 
 
-ananasa_project/
-|-- movies/
-|   |-- templates/
-|   |   |-- movies/
-|   |   |   |-- movie_list.html
-|   |   |   |-- movie_detail.html
-|   |-- static/
-|   |   |-- movies/
-|   |   |   |-- styles.css
-|   |-- views.py
-|   |-- urls.py
-|-- ananasa_project/
-|   |-- settings.py
-|   |-- urls.py
-|-- manage.py
