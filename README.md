@@ -11,3 +11,20 @@ ananasa to watch movies
 
 [TMDB API](https://github.com/BDR-Pro/TMDB-API)
 
+
+
+ananasa_project/
+|-- movies/
+|   |-- templates/
+|   |   |-- movies/
+|   |   |   |-- movie_list.html
+|   |   |   |-- movie_detail.html
+|   |-- static/
+|   |   |-- movies/
+|   |   |   |-- styles.css
+|   |-- views.py
+|   |-- urls.py
+|-- ananasa_project/
+|   |-- settings.py
+|   |-- urls.py
+|-- manage.py
