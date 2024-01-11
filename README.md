@@ -11,4 +11,4 @@ ananasa to watch movies
 
 [TMDB API](https://github.com/BDR-Pro/TMDB-API)
 
-[EGYBEST-Scraper](https://github.com/BDR-Pro/egy)
+[EGYBEST-Scraper](https://github.com/BDR-Pro/EGYBEST-Scraper)
