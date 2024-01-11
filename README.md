@@ -10,3 +10,5 @@ ananasa to watch movies
 [Web Scraper](https://github.com/BDR-Pro/Python-Nyaa-Web-scraper)
 
 [TMDB API](https://github.com/BDR-Pro/TMDB-API)
+
+[EGYBEST-Scraper](https://github.com/BDR-Pro/egy)
